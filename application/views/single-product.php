@@ -77,7 +77,7 @@ include "include/head.php";
                                     <div class="product-inner">
                                         <h2 class="product-name"><?php echo $row->product_name ?></h2>
                                         <div class="product-inner-price">
-                                            <ins>Rs.<?php echo $row->product_price ?></ins>
+                                            <ins>Rp.<?php echo $row->product_price ?></ins>
                                         </div>
 
 

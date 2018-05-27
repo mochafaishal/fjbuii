@@ -55,7 +55,7 @@ include "include/head.php";
     echo form_open('Shop/catFilter');
     ?>
     <select class=' add_to_cart_button' name="cat" id="">
-        <option value="mobile">mobile</option>
+        <option value="tahu">tahu</option>
         <option value="tablet">tablet</option>
     </select>
     <button class="add_to_cart_button" >Submit</button>
