@@ -44,7 +44,7 @@
         <div class="row">
             <div class="col-sm-6">
                 <div class="logo">
-                    <h1><a href="<?php echo base_url() ?>index.php/Welcome">Mobile<span> River</span></a></h1>
+                    <h1><a href="<?php echo base_url() ?>index.php/Welcome">FJB<span> elektronik UII</span></a></h1>
                 </div>
             </div>
 
