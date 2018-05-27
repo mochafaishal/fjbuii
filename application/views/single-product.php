@@ -132,7 +132,7 @@ include "include/head.php";
                             <h2><a href=""><?php echo $row->product_name ?></a></h2>
 
                             <div class="product-carousel-price">
-                                <ins>Rs.<?php echo $row->product_price ?></ins>
+                                <ins>Rp.<?php echo $row->product_price ?></ins>
                             </div>
                         </div>
                                     <?php
