@@ -95,7 +95,7 @@ include "include/head.php";
                                             </td>
 
                                             <td class="product-price">
-                                                <span class="amount">Rs.<?php echo $row->product_price ?></span>
+                                                <span class="amount">Rp.<?php echo $row->product_price ?></span>
                                             </td>
 
                                             <td class="product-quantity">
