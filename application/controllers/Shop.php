@@ -20,8 +20,13 @@ class Shop extends CI_Controller
     function catFilter()
     {
         $cat = $_POST['cat'];
+        $sort = $_POST['sort'];
 
-        $query = $this->Shop_model->getProdCat($cat);
+        $query = $this->Shop_model->getProdCat($cat, $sort);
+        // if($sort == "DESC"){
+
+        // }
+
 
         $data['catData']=$query->result();
 

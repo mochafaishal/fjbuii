@@ -54,6 +54,10 @@
             <?php
             echo form_open('Shop/catFilter');
             ?>
+            <select class=' add_to_cart_button' name="sort" id="">
+                <option value="ASC">Lowest Price</option>
+                <option value="DESC">Highest Price</option>
+            </select>
             <select class=' add_to_cart_button' name="cat" id="">
                 <option value="Laptop">Laptop</option>
                 <option value="Komputer">Komputer</option>

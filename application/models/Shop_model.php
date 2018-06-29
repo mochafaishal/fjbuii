@@ -9,12 +9,14 @@
 class Shop_model extends CI_Model
 {
     function getProd(){
-        $query = $this->db->get('products');
+        $this->db->from('products');
+        $this->db->order_by('product_price','ASC');
+        $query = $this->db->get();
         return $query;
     }
 
-    function getProdCat($cat){
-        $query = $this->db->get_where('products',array('product_category' =>$cat));
+    function getProdCat($cat, $sort){
+        $query = $this->db->order_by('product_price', $sort)->get_where('products',array('product_category' =>$cat));
         return $query;
     }
 }
