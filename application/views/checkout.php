@@ -72,7 +72,7 @@ include "include/head.php";
                 <td class="product-name">
                     Cart Total  </td>
                 <td class="product-total">
-                    <span class="amount">Rs.<?php echo $total ?>/-</span> </td>
+                    <span class="amount">Rp.<?php echo $total ?>/-</span> </td>
             </tr>
             </tbody>
             <tfoot>
@@ -80,14 +80,14 @@ include "include/head.php";
             <tr class="shipping">
                 <th>Shipping and Handling</th>
                 <td>
-                    Rs. 1000/-
+                    Rs. 2000/-
                 </td>
             </tr>
 
 
             <tr class="order-total">
                 <th>Order Total</th>
-                <td><strong><span class="amount">Rs.<?php echo $netTotal = $total + 1000 ?>/-</span></strong> </td>
+                <td><strong><span class="amount">Rp.<?php echo $netTotal = $total + 2000 ?>/-</span></strong> </td>
             </tr>
 
             </tfoot>
