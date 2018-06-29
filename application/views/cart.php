@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mobile River</title>
+    <title>FJB UII</title>
     <link rel="shortcut icon" href="<?php echo base_url()?>assets/img/logo.png" />
 
     <!-- Google Fonts -->
@@ -108,7 +108,7 @@ include "include/head.php";
                                                 </div>
 
                                             <td class="product-subtotal">
-                                                <span id="total" class="amount">Rs.<?php echo $pro_total ?></span>
+                                                <span id="total" class="amount">Rp.<?php echo $pro_total ?></span>
                                             </td>
                                         </tr>
 
@@ -132,7 +132,7 @@ include "include/head.php";
                                             Proceed To Checkout
                                         </a>
                                     </td>
-                                    <td><?php if(isset($pro_totals)){ echo 'Rs.'.$pro_totals.'/-';} ?></td>
+                                    <td><?php if(isset($pro_totals)){ echo 'Rp.'.$pro_totals.'/-';} ?></td>
 
                                 </tr>
                                 </tbody>

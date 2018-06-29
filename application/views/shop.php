@@ -102,7 +102,7 @@
                         </div>
                         <h2><a href=""><?php echo $row->product_name ?></a></h2>
                         <div class="product-carousel-price">
-                            <ins>Rs.<?php echo $row->product_price ?></ins>
+                            <ins>Rp.<?php echo $row->product_price ?></ins>
                         </div>
                         <div class="product-option-shop">
                             <a class="add_to_cart_button" data-quantity="1" data-product_sku="" data-product_id="70" rel="nofollow" href="<?php echo base_url() ?>index.php/Cart?id=<?php echo $row->p_id ?>">Add to cart</a>
