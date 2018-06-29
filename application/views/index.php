@@ -130,7 +130,7 @@ include "include/head.php";
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-flash"></i>
-                    <p>COD.</p>
+                    <p>COD</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
