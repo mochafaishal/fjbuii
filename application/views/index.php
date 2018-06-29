@@ -44,11 +44,11 @@ include "include/head.php";
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <ol class="carousel-indicators slide-indicators">
+                        <!-- <ol class="carousel-indicators slide-indicators">
                             <li data-target="#slide-list" data-slide-to="0" class="active"></li>
                             <li data-target="#slide-list" data-slide-to="1"></li>
                             <li data-target="#slide-list" data-slide-to="2"></li>
-                        </ol>
+                        </ol> -->
                     </div>
                 </div>
             </div>
@@ -64,8 +64,7 @@ include "include/head.php";
                                 <div class="row">
                                     <div class="col-md-6 col-md-offset-6">
                                         <div class="slide-content">
-                                            <h2>Mobile River</h2>
-                                            <p>Come Visit Us </p>
+                                             <h2>Values, Innovation, Perfection</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -74,7 +73,7 @@ include "include/head.php";
                     </div>
                 </div>
             </div>
-            <div class="item">
+            <!-- <div class="item">
                 <div class="single-slide">
                     <div class="slide-bg slide-two"></div>
                     <div class="slide-text-wrapper">
@@ -83,9 +82,7 @@ include "include/head.php";
                                 <div class="row">
                                     <div class="col-md-6 col-md-offset-6">
                                         <div class="slide-content">
-                                            <h2>We are great</h2>
-                                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe aspernatur, dolorum harum molestias tempora deserunt voluptas possimus quos eveniet, vitae voluptatem accusantium atque deleniti inventore. Enim quam placeat expedita! Quibusdam!</p>
-                                            <a href="" class="readmore">Learn more</a>
+                                            <h2>Values, Innovation, Perfection</h2>                             
                                         </div>
                                     </div>
                                 </div>
@@ -93,8 +90,8 @@ include "include/head.php";
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="item">
+            </div> -->
+            <!-- <div class="item">
                 <div class="single-slide">
                     <div class="slide-bg slide-three"></div>
                     <div class="slide-text-wrapper">
@@ -115,7 +112,7 @@ include "include/head.php";
                     </div>
                 </div>
             </div>
-        </div>
+        </div> -->
 
     </div>
 </div> <!-- End slider area -->
@@ -127,25 +124,25 @@ include "include/head.php";
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-refresh"></i>
-                    <p>7 Days return</p>
+                    <p>2 weeks return</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-flash"></i>
-                    <p>Free Charger</p>
+                    <p>Free Ongkir</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-lock"></i>
-                    <p>Secure payments</p>
+                    <p>Top Security</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-gift"></i>
-                    <p>New products Weekly</p>
+                    <p>Weekly Flashsale</p>
                 </div>
             </div>
         </div>
@@ -200,15 +197,15 @@ include "include/head.php";
                     <h2 class="section-title">Brands</h2>
                     <div class="brand-list">
                         <img src="<?php echo base_url() ?>assets/img/sam.png" alt="">
-                        <img src="<?php echo base_url() ?>assets/img/moto.png" alt="">
+          <!--               <img src="<?php echo base_url() ?>assets/img/moto.png" alt=""> -->
                         <img src="<?php echo base_url() ?>assets/img/lg.png" alt="">
-                        <img src="<?php echo base_url() ?>assets/img/obi.png" alt="">
+                       <!--  <img src="<?php echo base_url() ?>assets/img/obi.png" alt=""> -->
                         <img src="<?php echo base_url() ?>assets/img/Iphone.png" alt="">
                         <img src="<?php echo base_url() ?>assets/img/asus.png" alt="">
-                        <img src="<?php echo base_url() ?>assets/img/amazon.png" alt="">
+     <!--                    <img src="<?php echo base_url() ?>assets/img/amazon.png" alt=""> -->
                         <img src="<?php echo base_url() ?>assets/img/sony.png" alt="">
                         <img src="<?php echo base_url() ?>assets/img/htc.png" alt="">
-                        <img src="<?php echo base_url() ?>assets/img/bb.png" alt="">
+<!--                         <img src="<?php echo base_url() ?>assets/img/bb.png" alt=""> -->
                     </div>
                 </div>
             </div>
