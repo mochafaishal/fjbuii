@@ -159,7 +159,11 @@ include "include/head.php";
                                     </p>
 
                                     <p id="billing_phone_field" class="form-row form-row-last validate-required validate-phone">
+<<<<<<< HEAD
                                         <label class="" for="billing_phone">Phone (08XXXXXXXXX)<abbr title="required" class="required">*</abbr>
+=======
+                                        <label class="" for="billing_phone">Phone
+>>>>>>> ed66de6d163582ab12e02f6f9fa83ab04c787fbd
                                         </label>
                                         <input type="text" required="" value="" placeholder="" id="billing_phone" name="phone" class="input-text ">
                                     </p>

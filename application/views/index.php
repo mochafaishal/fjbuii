@@ -130,7 +130,7 @@ include "include/head.php";
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-flash"></i>
-                    <p>COD</p>
+                    <p>COD.</p>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -174,7 +174,7 @@ include "include/head.php";
                                     <h2><a href="single-product.php"><?php echo $row->product_name ?></a></h2>
 
                                     <div class="product-carousel-price">
-                                        <ins>Rs. <?php echo $row->product_price ?></ins>
+                                        <ins>Rp. <?php echo $row->product_price ?></ins>
                                     </div>
                                 </div>
                                 <?php
