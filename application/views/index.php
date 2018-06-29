@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mobile River</title>
+    <title>FJB UII</title>
     <link rel="shortcut icon" href="<?php echo base_url()?>assets/img/logo.png" />
 
     <!-- Google Fonts -->
@@ -82,7 +82,7 @@ include "include/head.php";
                                 <div class="row">
                                     <div class="col-md-6 col-md-offset-6">
                                         <div class="slide-content">
-                                            <h2>Values, Innovation, Perfection</h2>                             
+                                            <h2>Values, Innovation, Perfection</h2>
                                         </div>
                                     </div>
                                 </div>
@@ -127,12 +127,12 @@ include "include/head.php";
                     <p>2 weeks return</p>
                 </div>
             </div>
-            <div class="col-md-3 col-sm-6">
+            <!-- <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-flash"></i>
                     <p>Free Ongkir</p>
                 </div>
-            </div>
+            </div> -->
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-lock"></i>
