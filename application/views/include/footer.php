@@ -13,7 +13,7 @@
         <div class="row">
             <div class="col-md-3 col-sm-6">
                 <div class="footer-about-us">
-                    <h2>FJB <span>UII</span></h2>
+                    <h2>FJB Elektronik <span>UII</span></h2>
                     <p>Jual belinya anak UII, aman terpercaya, memudahkan mahasiswa UII untuk menjual barang-barang dan juga membeli barang</p>
                     <!-- <div class="footer-social">
                         <strong>Our Social Media</strong>

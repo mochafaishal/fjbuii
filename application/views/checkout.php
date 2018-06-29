@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mobile River</title>
+    <title>FJB UII</title>
     <link rel="shortcut icon" href="<?php echo base_url()?>assets/img/logo.png" />
 
     <!-- Google Fonts -->
@@ -80,14 +80,14 @@ include "include/head.php";
             <tr class="shipping">
                 <th>Shipping and Handling</th>
                 <td>
-                    Rs. 2000/-
+                    Rp. 1000/-
                 </td>
             </tr>
 
 
             <tr class="order-total">
                 <th>Order Total</th>
-                <td><strong><span class="amount">Rp.<?php echo $netTotal = $total + 2000 ?>/-</span></strong> </td>
+                <td><strong><span class="amount">Rp.<?php echo $netTotal = $total + 1000 ?>/-</span></strong> </td>
             </tr>
 
             </tfoot>
@@ -138,15 +138,15 @@ include "include/head.php";
                                     </p>
 
                                     <p id="billing_country_field" class="form-row form-row-wide address-field update_totals_on_change validate-required woocommerce-validated">
-                                        <label class="" for="billing_country">City of Pakistan <abbr title="required" class="required">*</abbr>
+                                        <label class="" for="billing_country">City of Indonesia <abbr title="required" class="required">*</abbr>
                                         </label>
                                         <select class="country_to_state country_select" id="billing_country" name="city" required="">
                                             <option value="">Select A City</option>
-                                            <option value="khi">Karachi</option>
-                                            <option value="isl">Islamabad</option>
-                                            <option value="lhr">Lahore</option>
-                                            <option value="psh">Peshawar</option>
-                                            <option value="que">Quetta</option>
+                                            <option value="JKT">DKI Jakarta</option>
+                                            <option value="YGY">DI Yogyakarta</option>
+                                            <option value="SMG">Semarang</option>
+                                            <option value="SBY">Surabaya</option>
+                                            <option value="BDN">Bandung</option>
                                         </select>
                                     </p>
 
@@ -159,7 +159,7 @@ include "include/head.php";
                                     </p>
 
                                     <p id="billing_phone_field" class="form-row form-row-last validate-required validate-phone">
-                                        <label class="" for="billing_phone">Phone (03XXXXXXXXX)<abbr title="required" class="required">*</abbr>
+                                        <label class="" for="billing_phone">Phone (08XXXXXXXXX)<abbr title="required" class="required">*</abbr>
                                         </label>
                                         <input type="text" required="" value="" placeholder="" id="billing_phone" name="phone" class="input-text ">
                                     </p>

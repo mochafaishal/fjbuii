@@ -12,7 +12,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Mobile River</title>
+    <title>FJB UII</title>
     <link rel="shortcut icon" href="<?php echo base_url()?>assets/img/logo.png" />
 
     <style type="text/css" media="print">
@@ -55,7 +55,7 @@
 <div class="container well">
     <div id="print">
         <div class="">
-            <span style="float: left;">
+            <!-- <span style="float: left;">
                 <b>Mobile River</b><br/>
                 <i>shop #111 <br/>1<sup>st</sup> Floor Star City Mall Saddar karachi.</i>
             </span>
@@ -68,12 +68,12 @@
                     <b> Sami </b> 03162658853
                 </span>
 
-            </span>
+            </span> -->
             <br/><br/><br/>
             <div>
                 <div>
                     <center>
-                        <h1><span style="color: gray;">Mobile</span> <span style="color:#1abc9c;">River</span></h1>
+                        <h1><span style="color: gray;">FJB</span> <span style="color:#16187A;">UII</span></h1>
                         <br/>
                         <span> <b>Customer Name :</b> <?php echo $_SESSION['dis_name'] ?> </span>
                     </center>
