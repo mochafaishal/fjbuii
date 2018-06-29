@@ -117,7 +117,7 @@ include "include/head.php";
     </div>
 </div> <!-- End slider area -->
 
-<div class="promo-area">
+<div class="promo-area" >
     <div class="zigzag-bottom"></div>
     <div class="container">
         <div class="row">
@@ -127,12 +127,12 @@ include "include/head.php";
                     <p>2 weeks return</p>
                 </div>
             </div>
-            <!-- <div class="col-md-3 col-sm-6">
+            <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-flash"></i>
-                    <p>Free Ongkir</p>
+                    <p>COD</p>
                 </div>
-            </div> -->
+            </div>
             <div class="col-md-3 col-sm-6">
                 <div class="single-promo">
                     <i class="fa fa-lock"></i>
